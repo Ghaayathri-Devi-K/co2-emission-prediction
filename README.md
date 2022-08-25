@@ -19,8 +19,11 @@ Download WGET from the link below and place in the 'C:\Windows\System32' for Win
 https://eternallybored.org/misc/wget/1.21.3/64/wget.exe
 </ol>
 
+## Analysis
+It has been observed that the accuracy of the model increased when using multiple regression instead of simple regression.
+
 ## Usage
-The repo has the CO2 Emissions predicted values both using the sklearn library and the userdefined implementation of the regression model
+The repo has the CO2 Emissions predicted values both using the sklearn library.
 
 ## Author
 @ Ghaayathri Devi K
