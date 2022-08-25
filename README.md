@@ -21,6 +21,7 @@ https://eternallybored.org/misc/wget/1.21.3/64/wget.exe
 
 ## Analysis
 It has been observed that the accuracy of the model increased when using multiple regression instead of simple regression.
+In case of non-linear regression, it was observed on increasing the degree of the polynomial accuracy of the model increases
 
 ## Usage
 The repo has the CO2 Emissions predicted values both using the sklearn library.
